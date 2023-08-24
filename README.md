@@ -8,6 +8,8 @@ Welcome to the PyTorch Basics and Image Classification Project repository! This 
 
 2. **`DeepLearning_with_PyTorch.ipynb`**: In this Jupyter Notebook, you'll find a complete project on image classification using an Artificial Neural Network (ANN) implemented with PyTorch. The project demonstrates how to preprocess image data, design a simple ANN architecture, train the model, and evaluate its performance on a given dataset.
 
+3. **`cifar10_cnn`**: This Jupyter Notebook contains a Convolutional Neural Network (CNN) trained on Cifar-10 dataset implemented with PyTorch. The project demonstrates how the CNN works and the different layers in the network.
+
 ## Getting Started
 
 To make the most of this repository, follow these steps:
